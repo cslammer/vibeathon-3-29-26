@@ -1,0 +1,39 @@
+{
+  "bankroll": 940.9,
+  "starting_bankroll": 1000.0,
+  "trades": [
+    {
+      "id": 1,
+      "timestamp": "2026-03-29T21:49:08.685395+00:00",
+      "condition_id": "0x306d10d4a4d51b41910dbc779ca00908bd917c131541c5c42bbbc736258d2d56",
+      "question": "US forces enter Iran by March 31?",
+      "side": "NO",
+      "size_usdc": 30.0,
+      "entry_price": 0.8695,
+      "our_probability": 0.08,
+      "confidence": 0.78,
+      "reasoning": "The bear argument is compelling - there is a 45+ year base rate of zero US forces entering Iranian territory despite numerous crises and escalations. Even the Soleimani strike was conducted in Iraq, not Iran. The extremely short timeline (weeks) makes the political and intelligence preparation for such an operation nearly impossible. While tensions exist, the administration's current focus appears to be domestic policy, and a new Middle Eastern war would be politically costly.",
+      "status": "open",
+      "pnl": null,
+      "yes_token_id": "42750054381142639205639663180818682570869285140532640407891991570656047928885",
+      "no_token_id": "81697486240392901899167649997008736380137911909662773455994395620863894931973"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-03-29T21:49:36.706680+00:00",
+      "condition_id": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
+      "question": "US forces enter Iran by April 30?",
+      "side": "NO",
+      "size_usdc": 29.1,
+      "entry_price": 0.305,
+      "our_probability": 0.12,
+      "confidence": 0.78,
+      "reasoning": "The bear case is substantially stronger. Despite decades of US-Iran tensions including far more acute crises, US forces have never conducted acknowledged operations inside Iranian territory. The Soleimani strike was in Iraq, not Iran. The catastrophic escalation risks (Strait of Hormuz, Hezbollah activation, regional war) serve as powerful deterrents. The 69.5% market price appears dramatically inflated relative to historical base rates and absence of concrete operational indicators.",
+      "status": "open",
+      "pnl": null,
+      "yes_token_id": "2916184120206223749839849644877707470354946028257066951797428049170871002238",
+      "no_token_id": "76533108781962275310651165149634079251899733930834190485860627580128626747247"
+    }
+  ],
+  "created": "2026-03-29T21:48:42.729050+00:00"
+}
