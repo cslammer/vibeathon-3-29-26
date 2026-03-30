@@ -1,0 +1,167 @@
+{
+  "bankroll": 1013.2530130690756,
+  "starting_bankroll": 1000.0,
+  "trades": [
+    {
+      "id": 1,
+      "timestamp": "2026-03-29T22:14:44.457831+00:00",
+      "condition_id": "0x3d20f26deb9b9cc7e24e5e06c10234a722d93bac095ce1105c59b44b503078d7",
+      "question": "Will the upper bound of the target federal funds rate be \u2265 4.5% at the end of 2026?",
+      "side": "NO",
+      "size_usdc": 1.0,
+      "entry_price": 0.969,
+      "our_probability": 0.32,
+      "confidence": 0.58,
+      "winning_persona": "bear",
+      "devil_impact": "The devil's advocate effectively highlighted that the recession the bear relies upon hasn't materialized despite prolonged predictions, tempering confidence in aggressive cutting scenarios, but didn't fundamentally change the verdict.",
+      "weights_used": {
+        "bull": 0.5,
+        "bear": 0.5
+      },
+      "reasoning": "While the bull presents valid concerns about inflation persistence and economic resilience, the bear's core argument about historical cutting cycles is compelling. With nearly two years until end of 2026 and the Fed already at 4.25-4.5%, maintaining rates at current restrictive levels without any meaningful cuts would be historically unusual. Even modest easing of 50-100 bps would push the upper bound below 4.5%. The market's 3.1% YES price appears too low, but a probability around 30-35% better reflects the genuine uncertainty around tariff shocks and inflation persistence.",
+      "status": "won",
+      "pnl": 0.03,
+      "lesson": "When betting on Fed policy over multi-year horizons, weight historical patterns of rate normalization heavily - the Fed rarely maintains peak restrictive rates for extended periods without eventually easing.",
+      "persona_deltas": {
+        "bull": -0.65,
+        "bear": 0.65
+      },
+      "yes_token_id": "44956651579513700220045051729687627381715616102744183825397331989105273067709",
+      "no_token_id": "51964039038586437622048402090827247539716151648632162816759306830645640049347",
+      "resolution": "NO"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-03-29T22:16:07.093291+00:00",
+      "condition_id": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
+      "question": "US forces enter Iran by April 30?",
+      "side": "NO",
+      "size_usdc": 99.9,
+      "entry_price": 0.295,
+      "our_probability": 0.08,
+      "confidence": 0.78,
+      "winning_persona": "bear",
+      "devil_impact": "The devil's advocate landed a devastating blow by reframing the Soleimani precedent as evidence AGAINST the bull thesis, showing that even peak tensions led to deliberate avoidance of Iranian soil.",
+      "weights_used": {
+        "bull": 0.5,
+        "bear": 0.5
+      },
+      "reasoning": "The bear and devil's advocate comprehensively dismantle the bull's case. The historical base rate of zero acknowledged US ground operations in Iran is decisive - even the Soleimans strike, the bull's primary evidence, was deliberately conducted in Iraq specifically to avoid crossing into Iranian territory. The catastrophic escalation costs and current diplomatic engagement trends further undermine any near-term military entry scenario.",
+      "status": "won",
+      "pnl": 238.74,
+      "lesson": "When assessing military action questions, weight the historical pattern of deliberate avoidance heavily, as operational constraints and escalation costs tend to persist even during periods of heightened rhetoric.",
+      "persona_deltas": {
+        "bull": -0.7,
+        "bear": 0.8
+      },
+      "yes_token_id": "2916184120206223749839849644877707470354946028257066951797428049170871002238",
+      "no_token_id": "76533108781962275310651165149634079251899733930834190485860627580128626747247",
+      "resolution": "NO"
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-03-29T22:21:19.107911+00:00",
+      "condition_id": "0x306d10d4a4d51b41910dbc779ca00908bd917c131541c5c42bbbc736258d2d56",
+      "question": "US forces enter Iran by March 31?",
+      "side": "NO",
+      "size_usdc": 89.91,
+      "entry_price": 0.8715,
+      "our_probability": 0.06,
+      "confidence": 0.78,
+      "winning_persona": "bear",
+      "devil_impact": "The devil's advocate effectively neutralized the bull's central argument by reframing the Soleimani precedent as evidence of restraint rather than aggression, and exposed the 'broad definition' interpretation as analytical overreach.",
+      "weights_used": {
+        "bull": 0.5,
+        "bear": 0.5
+      },
+      "reasoning": "The bear case is compelling: despite 45+ years of tensions, proxy conflicts, and multiple near-war scenarios, the US has never conducted an acknowledged incursion into Iranian sovereign territory. The Soleimani strike in Iraq actually reinforces this restraint - the US deliberately chose Iraqi soil to avoid crossing the Iranian threshold. The catastrophic escalation risks of entering a nation of 87 million with sophisticated military capabilities makes this extraordinarily unlikely without extreme provocation that shows no current evidence.",
+      "status": "won",
+      "pnl": 13.26,
+      "lesson": "When analyzing military action questions, weight historical patterns of deliberate restraint heavily, especially when crossing specific territorial thresholds has been consistently avoided despite numerous opportunities.",
+      "persona_deltas": {
+        "bull": -0.8,
+        "bear": 0.85
+      },
+      "yes_token_id": "42750054381142639205639663180818682570869285140532640407891991570656047928885",
+      "no_token_id": "81697486240392901899167649997008736380137911909662773455994395620863894931973",
+      "resolution": "NO"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-03-29T22:36:51.557147+00:00",
+      "condition_id": "0xe4b9a52d2bb336ff9d84799b70e72e8e5f4507df881af60f3f4daeb9f541a80e",
+      "question": "US forces enter Iran by December 31?",
+      "side": "NO",
+      "size_usdc": 125.2,
+      "entry_price": 0.23,
+      "our_probability": 0.14,
+      "confidence": 0.68,
+      "winning_persona": "bear",
+      "devil_impact": "The devil's advocate raised a legitimate concern about Israeli actions forcing US involvement, but this doesn't overcome the fundamental point that even in crisis scenarios, the US has options short of territorial entry.",
+      "weights_used": {
+        "bull": 0.25842696629213485,
+        "bear": 0.75
+      },
+      "reasoning": "The bear's core argument about 45+ years of deliberate institutional avoidance of Iranian ground operations carries substantial weight. While the devil's advocate correctly notes that Israel could create forcing functions, even crisis scenarios (downed pilot rescue, etc.) would more likely involve standoff operations or coordination with regional partners rather than direct US ground entry into Iran. The market at 77% dramatically overprices a scenario that would require unprecedented policy rupture in the next ~6 months.",
+      "status": "open",
+      "pnl": null,
+      "lesson": null,
+      "persona_deltas": null,
+      "yes_token_id": "31335564527155177318544135513783493075328451393660649396114225549873718295223",
+      "no_token_id": "999431386086915652803375764895435840752699372365775899613514207437695781135"
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-03-29T23:22:57.840436+00:00",
+      "condition_id": "0x45d06878c8e37b634909a2216e1d765f88e7f6f3a0cdb7d2c86984543a0ba2cb",
+      "question": "Will Yoo Jeong-bok win the 2026 Incheon mayoral election?",
+      "side": "NO",
+      "size_usdc": 1.0,
+      "entry_price": 0.955,
+      "our_probability": 0.42,
+      "confidence": 0.58,
+      "winning_persona": "bear",
+      "devil_impact": "The devil's advocate devastatingly highlighted that the bull's core 'incumbent advantage' argument is contradicted by Yoo's own 2018 loss, fundamentally undermining the stability narrative.",
+      "weights_used": {
+        "bull": 0.25842696629213485,
+        "bear": 0.75
+      },
+      "reasoning": "The bear's case is compelling and carries higher weight (0.75 vs 0.26). Yoo's 2018 defeat in this exact race proves Incheon is genuinely competitive and incumbent advantage is not deterministic. With President Yoon's ongoing political crisis, 18 months of uncertainty, and Korean voters' demonstrated willingness to use local elections as national referendums, the true probability is substantially higher than the 4.5% market implies for a NO outcome.",
+      "status": "open",
+      "pnl": null,
+      "lesson": null,
+      "persona_deltas": null,
+      "yes_token_id": "112466316253135811012111213668682806272891231676469404285933003650080963165020",
+      "no_token_id": "87832198376686854060456476252089080961304817808465513725853943169015339873489"
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-03-29T23:35:31.673730+00:00",
+      "condition_id": "0xc5300759dc2089042380795fe7384010a6b6ebdf9e6da7ed3f786d9a5f61c563",
+      "question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "side": "NO",
+      "size_usdc": 112.58,
+      "entry_price": 0.1295,
+      "our_probability": 0.08,
+      "confidence": 0.78,
+      "winning_persona": "bear",
+      "devil_impact": "Critically undermined the bull case by highlighting that the 'underpriced risk' argument is unfalsifiable and has been recycled unsuccessfully for 18+ months while identical catalysts failed to trigger spikes.",
+      "weights_used": {
+        "bull": 0.25842696629213485,
+        "bear": 0.75
+      },
+      "reasoning": "A move from ~$70-72 to $100 requires a 40%+ surge in approximately 6 weeks, which base rates show occurs in less than 5% of comparable periods without major supply disruptions. The bull's geopolitical risk argument has been consistently wrong for 18+ months as identical catalysts (Houthi attacks, Iran-Israel tensions, Russia-Ukraine) have failed to move prices. OPEC+ spare capacity of 5-6 mb/d provides a natural ceiling against sustained spikes.",
+      "status": "open",
+      "pnl": null,
+      "lesson": null,
+      "persona_deltas": null,
+      "yes_token_id": "79605660806991457811890435537160628976099500543939220857753925926896831621219",
+      "no_token_id": "92274168594309301674860132535303917340223623966677593281435938105131107664927"
+    }
+  ],
+  "created": "2026-03-29T22:13:20.889135+00:00",
+  "persona_weights": {
+    "bull": 0.25842696629213485,
+    "bear": 0.75
+  }
+}
